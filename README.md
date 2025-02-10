@@ -20,5 +20,5 @@ This repository is **not** intended to be duplicated, as some external files (su
 ## Background  
 This project stemmed from a broader initiative to examine housing affordability and tax burdens. The goal was to identify trends in property tax increases and their disproportionate impact on different neighborhoods.  
 
-## Outcome
+## Findings
 The analysis found that from 2010 to 2019, property taxes in New Hanover County rose faster than incomes, with some neighborhoods feeling the impact much more than others. It highlights the connection between rising taxes and housing cost burden, which happens when more than 30% of income goes to housing. To put this into perspective, the one-pager translates tax increases into real-life costs by comparing them to essential expenses like groceries, healthcare, and transportation. 
